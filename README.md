@@ -6,7 +6,7 @@ Para abrir el archivo `ClipJolt.ahk`, debes tener instalado [AutoHotKey](https:/
 
 Luego de abrir ClipJolt, todos los textos que copies empezaran a ser registrados, el menú se abre presionando `Ctrl` + `BloqMayus`:
 
-![menu](.\img\menu.png)
+![menu](https://github.com/leox23/ClipJolt/blob/main/img/menu.png)
 
 Así se mostrara con cuando hayas copiado contenido.
 
